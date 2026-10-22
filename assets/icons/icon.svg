@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Deutschheft: a squared exercise-book page with an ä and a teacher's red tick in the margin -->
+  <rect class="bg" width="512" height="512" rx="112" fill="#2340C4"/>
+  <g class="art" transform="rotate(-4 256 256)">
+    <rect x="114" y="82" width="292" height="348" rx="22" fill="#FFFFFF"/>
+    <g stroke="#2340C4" stroke-opacity="0.13" stroke-width="3">
+      <path d="M114 124h292M114 166h292M114 208h292M114 250h292M114 292h292M114 334h292M114 376h292"/>
+      <path d="M156 82v348M198 82v348M240 82v348M282 82v348M324 82v348"/>
+    </g>
+    <path d="M348 82v348" stroke="#CF2338" stroke-width="5"/>
+    <text x="231" y="352" text-anchor="middle" font-family="Jost, Futura, sans-serif" font-weight="600" font-size="260" fill="#161C2E">ä</text>
+    <path d="M360 152l13 14 22-30" fill="none" stroke="#CF2338" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+</svg>
